@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/30 16:20:31.000.542,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020/04/02 17:32:33.000.573,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020/04/02 17:33:25.000.062,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\View.Principal.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020/04/02 17:33:25.000.062,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\View.Principal.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2020/04/02 17:33:35.000.625,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\OOP.Iniciantes.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2020/04/02 17:34:03.000.933,=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 17:34:11.000.582,=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit2.pas</Transaction>
+    <Transaction>2020/04/02 17:34:51.000.416,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Pessoa.pas=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 17:34:51.000.416,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Pessoa.dfm=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.dfm</Transaction>
+    <Transaction>2020/04/02 17:35:14.000.136,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Pessoa.pas=</Transaction>
+    <Transaction>2020/04/02 17:35:22.000.270,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Pessoa.pas=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit2.pas</Transaction>
+    <Transaction>2020/04/02 17:35:29.000.470,=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 17:35:44.000.594,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Vendedor.pas=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 17:35:53.000.753,=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 17:36:08.000.718,C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Classe.Administrativo.pas=C:\Users\user\Documents\Embarcadero\Aulas\Orientação a Objetos\TCC\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Classe.Administrativo.pas"/>
+    <File Path="Classe.Pessoa.pas"/>
+    <File Path="Classe.Vendedor.pas"/>
+    <File Path="View.Principal.pas"/>
+    <File Path="View.Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
